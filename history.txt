@@ -1,0 +1,21 @@
+ git clone https://github.com/Ofentse767/tpc-community.git
+  196  touch Tpc_Community .
+  197  git clone https://github.com/Ofentse767/tpc-community.git
+  198  touch Tpc_Community.
+  199  cd Tpc_Community.
+  200  cd tpc_community
+  201  cd tpc-community
+  202  mkdir automation_scripts
+  203  cd automation_scripts
+  204  touch deploy.sh
+  205  cd ..
+  206  mkdir documentation
+  207  cd documentation
+  208  touch style_guide.txt
+  209  cd ..
+  210  git init
+  211  git add .
+  212  git commit -m "commit"
+  213  git push
+  214  touch history.txt
+  215  history
